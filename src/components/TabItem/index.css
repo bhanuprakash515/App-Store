@@ -1,0 +1,13 @@
+.tab-list-container {
+  border-bottom: 2px solid #dfe2e5;
+}
+
+.button {
+  background-color: transparent;
+  color: #7b8794;
+  border-width: 0px;
+  font-weight: 600;
+  padding-right: 16px;
+  font-size: 23px;
+  cursor: pointer;
+}
